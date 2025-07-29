@@ -28,3 +28,8 @@ Ele permite **cadastrar veículos**, **remover veículos** calculando o valor a 
 1️⃣ **Clone o repositório:**
 ```bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+cd nome-do-repositorio/DesafioFundamentos
+
+dotnet run
+
