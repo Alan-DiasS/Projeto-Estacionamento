@@ -26,10 +26,44 @@ Ele permite **cadastrar veículos**, **remover veículos** calculando o valor a 
 ## 🚀 Como Executar o Projeto
 
 1️⃣ **Clone o repositório:**
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-
+````bash
+git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+````
+2️⃣ **Acesse a pasta do projeto:**
+````bash
 cd nome-do-repositorio/DesafioFundamentos
-
+````
+3️⃣ **Execute o projeto:**
+````bash
 dotnet run
+````
 
+## 📷 Exemplo de Uso
+
+Seja bem-vindo ao sistema de estacionamento!
+Digite o preço inicial do estacionamento:
+> 5
+Agora digite o preço por hora:
+> 2
+
+Digite a sua opção:
+1 - Cadastrar Veículo
+2 - Remover Veículo
+3 - Listar Veículos
+4 - Sair
+
+## 📚 Conceitos Praticados
+
+- Manipulação de listas (List<string>)
+
+- Estruturas de controle (if, switch, while)
+
+- Entrada e saída de dados no console
+
+- Encapsulamento e métodos de classe
+
+- Conversão de tipos (int.Parse, Convert.ToDecimal)
+
+## 🎯 Objetivo
+
+O objetivo deste projeto é praticar lógica de programação e fundamentos de C#, criando um sistema simples e funcional que simula o gerenciamento de um estacionamento.
