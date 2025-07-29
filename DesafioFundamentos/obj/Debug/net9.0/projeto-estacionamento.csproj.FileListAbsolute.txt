@@ -1,0 +1,14 @@
+C:\Users\aland\OneDrive\Área de Trabalho\projeto-estacionamento\DesafioFundamentos\obj\Debug\net9.0\projeto-estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aland\OneDrive\Área de Trabalho\projeto-estacionamento\DesafioFundamentos\obj\Debug\net9.0\projeto-estacionamento.AssemblyInfoInputs.cache
+C:\Users\aland\OneDrive\Área de Trabalho\projeto-estacionamento\DesafioFundamentos\obj\Debug\net9.0\projeto-estacionamento.AssemblyInfo.cs
+C:\Users\aland\OneDrive\Área de Trabalho\projeto-estacionamento\DesafioFundamentos\obj\Debug\net9.0\projeto-estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\aland\OneDrive\Área de Trabalho\projeto-estacionamento\DesafioFundamentos\bin\Debug\net9.0\projeto-estacionamento.exe
+C:\Users\aland\OneDrive\Área de Trabalho\projeto-estacionamento\DesafioFundamentos\bin\Debug\net9.0\projeto-estacionamento.deps.json
+C:\Users\aland\OneDrive\Área de Trabalho\projeto-estacionamento\DesafioFundamentos\bin\Debug\net9.0\projeto-estacionamento.runtimeconfig.json
+C:\Users\aland\OneDrive\Área de Trabalho\projeto-estacionamento\DesafioFundamentos\bin\Debug\net9.0\projeto-estacionamento.dll
+C:\Users\aland\OneDrive\Área de Trabalho\projeto-estacionamento\DesafioFundamentos\bin\Debug\net9.0\projeto-estacionamento.pdb
+C:\Users\aland\OneDrive\Área de Trabalho\projeto-estacionamento\DesafioFundamentos\obj\Debug\net9.0\projeto-estacionamento.dll
+C:\Users\aland\OneDrive\Área de Trabalho\projeto-estacionamento\DesafioFundamentos\obj\Debug\net9.0\refint\projeto-estacionamento.dll
+C:\Users\aland\OneDrive\Área de Trabalho\projeto-estacionamento\DesafioFundamentos\obj\Debug\net9.0\projeto-estacionamento.pdb
+C:\Users\aland\OneDrive\Área de Trabalho\projeto-estacionamento\DesafioFundamentos\obj\Debug\net9.0\projeto-estacionamento.genruntimeconfig.cache
+C:\Users\aland\OneDrive\Área de Trabalho\projeto-estacionamento\DesafioFundamentos\obj\Debug\net9.0\ref\projeto-estacionamento.dll
